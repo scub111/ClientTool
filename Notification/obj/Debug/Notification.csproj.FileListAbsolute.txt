@@ -1,0 +1,9 @@
+D:\_Projects\ClientTool\Notification\obj\Debug\Notification.csprojResolveAssemblyReference.cache
+D:\_Projects\ClientTool\Notification\obj\Debug\Notification.Properties.Resources.resources
+D:\_Projects\ClientTool\Notification\obj\Debug\Notification.csproj.GenerateResource.Cache
+D:\_Projects\ClientTool\Notification\bin\Debug\Notification.exe.config
+D:\_Projects\ClientTool\Notification\bin\Debug\Notification.exe
+D:\_Projects\ClientTool\Notification\bin\Debug\Notification.pdb
+D:\_Projects\ClientTool\Notification\obj\Debug\Notification.exe
+D:\_Projects\ClientTool\Notification\obj\Debug\Notification.pdb
+D:\_Projects\ClientTool\Notification\obj\Debug\Notification.frmMain.resources

@@ -1,0 +1,5 @@
+D:\_Projects\ClientTool\SetInfoWallper\bin\Debug\SetInfoWallper.exe
+D:\_Projects\ClientTool\SetInfoWallper\bin\Debug\SetInfoWallper.pdb
+D:\_Projects\ClientTool\SetInfoWallper\obj\Debug\SetInfoWallper.exe
+D:\_Projects\ClientTool\SetInfoWallper\obj\Debug\SetInfoWallper.pdb
+D:\_Projects\ClientTool\SetInfoWallper\obj\Debug\SetInfoWallper.csprojResolveAssemblyReference.cache

@@ -1,0 +1,8 @@
+D:\_Projects\ClientTool\ClientTool\bin\Debug\ClientTool.exe
+D:\_Projects\ClientTool\ClientTool\bin\Debug\ClientTool.pdb
+D:\_Projects\ClientTool\ClientTool\obj\Debug\ClientTool.csprojResolveAssemblyReference.cache
+D:\_Projects\ClientTool\ClientTool\obj\Debug\ClientTool.Properties.Resources.resources
+D:\_Projects\ClientTool\ClientTool\obj\Debug\ClientTool.csproj.GenerateResource.Cache
+D:\_Projects\ClientTool\ClientTool\obj\Debug\ClientTool.exe
+D:\_Projects\ClientTool\ClientTool\obj\Debug\ClientTool.pdb
+D:\_Projects\ClientTool\ClientTool\obj\Debug\ClientTool.frmMain.resources
