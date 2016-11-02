@@ -107,6 +107,7 @@ namespace SetInfoWallpaper
 
             string extention = Path.GetExtension(pathDestination);
 
+
             if (extention != ".bmp")
             {
                 ImageCodecInfo jpgEncoder = GetEncoder(ImageFormat.Jpeg);
