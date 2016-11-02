@@ -104,6 +104,7 @@ namespace SetInfoWallpaper
             if (File.Exists(pathDestination))
                 File.Delete(pathDestination);
 
+
             string extention = Path.GetExtension(pathDestination);
 
             if (extention != ".bmp")
