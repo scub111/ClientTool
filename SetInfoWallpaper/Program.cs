@@ -104,7 +104,6 @@ namespace SetInfoWallpaper
             if (File.Exists(pathDestination))
                 File.Delete(pathDestination);
 
-
             string extention = Path.GetExtension(pathDestination);
 
 
@@ -191,7 +190,7 @@ namespace SetInfoWallpaper
 
                 string localDir = Path.GetDirectoryName(Assembly.GetEntryAssembly().Location);
 
-                string windowsVersion = LoadWallpaparConfig("SetInfoWallpaper.ini");
+                string windowsVersion = LoadWallpaparConfig(Path.GetDirectoryName(Application.ExecutablePath) + "\\" + "SetInfoWallpaper.ini");
                 if (string.IsNullOrEmpty(windowsVersion))
                     windowsVersion = "Windows 7";
 
@@ -349,7 +348,7 @@ namespace SetInfoWallpaper
         static void Main(string[] args)
         {
             DateTime t0 = DateTime.Now;
-            Console.WriteLine("Start...");
+            Console.WriteLine("Start SetInfoWallpaper v1.0.1 ...");
             SetInfoWallpaper();
             TimeSpan diff = DateTime.Now - t0;
             Console.WriteLine(string.Format("Changing wallpaper took {0} s", diff.TotalSeconds));

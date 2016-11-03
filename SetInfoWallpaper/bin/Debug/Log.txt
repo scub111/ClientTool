@@ -115,3 +115,8 @@
 03.10.2016 11:33:27 - Success load wallpaper D:\_Projects\ClientTool\SetInfoWallpaper\bin\Debug\temp\EditedWallpaper.bmp (Image=4288:2848, Screen=1920:1200, k=2,23, fS=33,5).
 03.10.2016 11:56:57 - Started as NPR\karnaushenkosv ip=172.31.106.48.
 03.10.2016 11:56:57 - Success load wallpaper D:\_Projects\ClientTool\SetInfoWallpaper\bin\Debug\temp\EditedWallpaper.bmp (Image=4288:2848, Screen=1920:1200, k=2,23, fS=33,5).
+03.11.2016 12:48:47 - Started as NPR\karnaushenkosv ip=172.31.106.48.
+03.11.2016 12:49:12 - Started as NPR\karnaushenkosv ip=172.31.106.48.
+03.11.2016 12:49:13 - Success load wallpaper D:\_Projects\ClientTool\SetInfoWallpaper\bin\Debug\temp\EditedWallpaper.jpg (Image=1920:1200, Screen=1920:1200, k=1, fS=15).
+03.11.2016 12:50:12 - Started as NPR\karnaushenkosv ip=172.31.106.48.
+03.11.2016 12:50:13 - Success load wallpaper D:\_Projects\ClientTool\SetInfoWallpaper\bin\Debug\temp\EditedWallpaper.jpg (Image=1920:1200, Screen=1920:1200, k=1, fS=15).
