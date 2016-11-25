@@ -332,7 +332,8 @@ namespace SetInfoWallpaper
                     pathDestination3,
                     btmWallpaper.Width, btmWallpaper.Height,
                     Screen.PrimaryScreen.Bounds.Width, Screen.PrimaryScreen.Bounds.Height,
-                    k, fS));
+                    k, 
+                    fS));
             }
             catch (Exception ex)
             {
